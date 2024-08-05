@@ -1,5 +1,5 @@
 # Heracles
-Heracles project was developed through PL/Python, trigger, pg_cron in PostgreSQL
+Heracles project was developed through PL/Python, trigger, pg_cron, timescaledb in PostgreSQL
 
 We don't recommand in production environment if you use the project to your work.
 
