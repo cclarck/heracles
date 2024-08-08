@@ -21,6 +21,6 @@ Let's try to run Heracles
 * 6. postgREST build web api then you can build dashboard
 
 
-pg_cron: https://github.com/citusdata/pg_cron
-postgREST: https://docs.postgrest.org/en/v12/#
-TimescaleDB: https://www.timescale.com/
+* pg_cron: https://github.com/citusdata/pg_cron
+* postgREST: https://docs.postgrest.org/en/v12/#
+* TimescaleDB: https://www.timescale.com/
