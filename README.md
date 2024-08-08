@@ -7,8 +7,8 @@ Welcome join Postgres.TW
 https://www.facebook.com/groups/pgsql.tw
 
 My friends
-* 小雨大：https://hackmd.io/@YEO2kdhaSfSplKcQM_sjBA
-* 老鷹：https://hackmd.io/@hitomi
+* 小雨大：https://hackmd.io/@hitomi
+* 老鷹：https://hackmd.io/@YEO2kdhaSfSplKcQM_sjBA
 * 克拉克：https://hackmd.io/@Hvg3gnpgT2e0Bq9GJDq_JA
 
 Let's try to run Heracles
